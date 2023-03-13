@@ -3,12 +3,14 @@
     {
       "id": "BIO",
       "name": "Bilbao",
-      "temperature": 11
+      "temperature": 11,
+      "rain_probability": 0.9
     },
     {
       "id": "TFN",
       "name": "Tenerife",
-      "temperature": 22
+      "temperature": 22,
+      "rain_probability": 0.1
     }
   ]
 }
