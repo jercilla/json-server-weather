@@ -1,0 +1,14 @@
+{
+  "cities": [
+    {
+      "id": "BIO",
+      "name": "Bilbao",
+      "temperature": 11
+    },
+    {
+      "id": "TFN",
+      "name": "Tenerife",
+      "temperature": 22
+    }
+  ]
+}
